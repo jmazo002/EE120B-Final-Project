@@ -1,10 +1,9 @@
 # Autonomous Trash Picking Robot
 Project Team Members: Justin Mazon, Ryan Lansang, Kaisen Leong, Hector Jimenez
 
-[!Demo](https://www.youtube.com/watch?v=zVrcM-32XTs&ab_channel=JustinMazon)
-
 ## Final Report: https://docs.google.com/document/d/1Tku5AV7w6lfjd1ppWgWYUe8aCYjsbZBt/edit?usp=sharing&ouid=110709078366758877860&rtpof=true&sd=true
 ## Youtube Demo: https://www.youtube.com/watch?v=zVrcM-32XTs&ab_channel=JustinMazon
+![image](https://github.com/user-attachments/assets/6fe365e4-89e3-4e5c-a0d3-df5c5d8e802f)
 
 ## Overview
 For this project, our goal was to design a ROS2 based autonomous waste collection system running on a Raspberry Pi 4 Model B with Ubuntu 20.04 installed. The robot incorporates motor control, LiDAR input, component communication, object recognition, and autonomy.
@@ -16,9 +15,6 @@ For this project, our goal was to design a ROS2 based autonomous waste collectio
 
 ## Meaning
 This is a meaningful project because as engineers we are wanting to automate daily tasks.  We all enjoy robots and decided we could make our own robot to clean up after ourselves since we are all very lazy. Also in society we feel like there are not enough humans that throw away their waste responsibly and ethically. Our robot would help spread awareness of the need to recycle and throw away trash through eco-friendly practices. 
-
-
-
 
 ## Screenshots:
 ![image](https://github.com/user-attachments/assets/3fc5ac8a-5174-4686-8486-f526ec7fddad)
