@@ -1,7 +1,7 @@
 # Autonomous Trash Picking Robot
 Project Team Members: Justin Mazon, Ryan Lansang, Kaisen Leong, Hector Jimenez
 
-[Demo](https://www.youtube.com/watch?v=zVrcM-32XTs&ab_channel=JustinMazon)
+[!Demo](https://www.youtube.com/watch?v=zVrcM-32XTs&ab_channel=JustinMazon)
 
 ## Final Report: https://docs.google.com/document/d/1Tku5AV7w6lfjd1ppWgWYUe8aCYjsbZBt/edit?usp=sharing&ouid=110709078366758877860&rtpof=true&sd=true
 ## Youtube Demo: https://www.youtube.com/watch?v=zVrcM-32XTs&ab_channel=JustinMazon
