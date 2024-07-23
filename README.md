@@ -7,6 +7,7 @@ Project Team Members: Justin Mazon, Ryan Lansang, Kaisen Leong, Hector Jimenez
 
 ## Overview
 For this project, our goal was to design a ROS2 based autonomous waste collection system running on a Raspberry Pi 4 Model B with Ubuntu 20.04 installed. The robot incorporates motor control, LiDAR input, component communication, object recognition, and autonomy.
+
 ![image](https://github.com/user-attachments/assets/71d7c459-ea0f-497d-b5f3-46d519373a6a)
 ![image](https://github.com/user-attachments/assets/377cd587-2008-45ba-bb14-f4ed0b95f5d2)
 
